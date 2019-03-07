@@ -1,0 +1,13 @@
+version: '3.4'
+
+services:
+  webapplication7:
+    image: ${DOCKER_REGISTRY-}webapplication7
+    build:
+      context: .
+      dockerfile: WebApplication7/Dockerfile
+
+    image: ${DOCKER_REGISTRY-}webapplication7
+    build:
+      context: .
+      dockerfile: FunctionApp1/Dockerfile
