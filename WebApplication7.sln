@@ -5,8 +5,6 @@ VisualStudioVersion = 15.0.28307.438
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WebApplication7", "WebApplication7\WebApplication7.csproj", "{F246AC9B-BEC2-4490-A1EB-35F6903954DC}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FunctionApp1", "FunctionApp1\FunctionApp1.csproj", "{A862F05B-9090-461C-9973-9631D2C825AD}"
-EndProject
 Project("{E53339B2-1760-4266-BCC7-CA923CBCF16C}") = "docker-compose", "docker-compose.dcproj", "{8284EBBF-6551-4A2A-8C7B-9884CAF882DB}"
 EndProject
 Global
