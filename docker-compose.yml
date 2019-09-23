@@ -7,3 +7,7 @@ services:
       context: .
       dockerfile: WebApplication7/Dockerfile
 
+    image: ${DOCKER_REGISTRY-}nonapp1
+    build:
+      context: .
+      dockerfile: NonApp1/Dockerfile

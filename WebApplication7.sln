@@ -7,6 +7,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WebApplication7", "WebAppli
 EndProject
 Project("{E53339B2-1760-4266-BCC7-CA923CBCF16C}") = "docker-compose", "docker-compose.dcproj", "{8284EBBF-6551-4A2A-8C7B-9884CAF882DB}"
 EndProject
+Project("{13B669BE-BB05-4DDF-9536-439F39A36129}") = "NonApp1", "NonApp1\NonApp1.msbuildproj", "{F58FF376-1367-43D3-9B76-D3D5AA88116E}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU

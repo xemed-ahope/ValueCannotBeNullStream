@@ -1,0 +1,11 @@
+<Project Sdk="Microsoft.Build.NoTargets/1.0.85">
+
+  <PropertyGroup>
+    <TargetFramework>netcoreapp2.2</TargetFramework>
+    <DockerComposeProjectPath>..\docker-compose.dcproj</DockerComposeProjectPath>
+  </PropertyGroup>
+  
+  <ItemGroup>
+    <None Include="Dockerfile" />
+  </ItemGroup>
+</Project>
